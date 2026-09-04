@@ -9,7 +9,7 @@ Agencia de Aduanas ASCOINTER S.A.S.
 
 ## El archivo
 
-Todo vive en [`invitacion.html`](invitacion.html): un único archivo autónomo,
+Todo vive en [`index.html`](index.html): un único archivo autónomo,
 sin dependencias ni proceso de compilación. Se abre con doble clic en cualquier
 navegador moderno. El logo de Ascointer va incrustado como `data:` URI, así que
 la página funciona también sin conexión.
